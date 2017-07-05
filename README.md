@@ -1,7 +1,9 @@
 # PIDjs
-Javascript implementation of a PID controller
+Javascript implementation of a PID controller. 
+
+Control your javascript games, animations and even Raspberry Pi robots!
 
 # ToDo
-> Example control
-> Documentation
-> Extensive ReadMe
+- Example 
+- Documentation
+- Extensive ReadMe
