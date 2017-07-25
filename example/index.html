@@ -1,0 +1,25 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>PID example</title>
+    </head>
+    <body>
+        <div id="body-content">
+            <div class="input-group">
+                <span class="input-group-addon" id="addon-P">P</span>
+                <input type="number"  step="any" id="P" value="3" />
+                <span class="input-group-addon" id="addon-I">I</span>
+                <input type="number"  step="any" id="I" value="2" />
+                <span class="input-group-addon" id="addon-D">D</span>
+                <input type="number"  step="any" id="D" value="1" />
+                <button type="button" id="startSim">Start Simulation</button>
+            </div>
+            <div id="chart-output" style="width:100%; height:100%"></div>
+        </div>
+        <script src="http://code.highcharts.com/highcharts.js"></script>
+        <script src="http://www.numericjs.com/lib/numeric-1.2.6.js"></script>
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+        <script src="dist/bundle.js"></script>
+    </body>
+</html>
