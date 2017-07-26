@@ -1,6 +1,7 @@
 
-import PID from '../../PID'
 
+import PID from '../../PID'
+const numeric = require('numeric');
 const dt    =   0.001;
 const T     =   10;
 

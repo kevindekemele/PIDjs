@@ -29,7 +29,6 @@
     "webpack": "^3.3.0"
   },
   "dependencies": {
-    "highcharts": "^5.0.12",
     "numeric": "^1.2.6"
   }
 }
