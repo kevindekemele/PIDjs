@@ -7,7 +7,7 @@ Controlling the dynamic system 1/(s^2 +s +1)
 https://kevindekemele.github.io/PIDjs/example/
 
 See the PID library in action on (put controller on):
-http://users.ugent.be/~kdkemele/PIDJS/pidexample.html
+http://www.odysc.ugent.be/
 
 # ToDo
 - Document
